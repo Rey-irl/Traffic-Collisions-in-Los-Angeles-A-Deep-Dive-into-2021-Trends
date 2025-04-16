@@ -79,6 +79,4 @@ This part of the project analyzes **18,992 traffic collision incidents** reporte
 
 **Reyna Vargas Antonio**  
 School of Computing, National College of Ireland  
-📧 x23127635@student.ncirl.ie
-
 ---
