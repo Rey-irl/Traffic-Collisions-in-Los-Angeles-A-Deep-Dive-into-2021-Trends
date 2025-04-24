@@ -33,6 +33,9 @@ This part of the project analyzes **18,992 traffic collision incidents** reporte
     - Most victims were aged **28–50 years**.  
     - Median age: 38 (men), 36 (women)
 
+![Traffic Collision by Area and Gender]("C:\Users\reyna\Documents\MSc in Data Analytics\Semester 1\Database & Analytics Programming\0.1 Final Project\Number of Traffic Collision by Area and Gender.png")
+
+
 - **Time of Day:**  
   - Peak incidents: **17:00–17:49**  
   - Lowest: Around 04:00
