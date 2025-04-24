@@ -45,9 +45,6 @@ This part of the project analyzes **18,992 traffic collision incidents** reporte
 - **PostgreSQL:** Final storage and querying
 - **Data Preprocessing:** Handling missing values, encoding formats, restructuring nested JSON
 
-
-![Traffic Trends Chart]([https://example.com/images/trends.png](https://github.com/Rey-irl/Traffic-Collisions-in-Los-Angeles-A-Deep-Dive-into-2021-Trends/blob/main/Number%20of%20Traffic%20Collision%20by%20Area%20and%20Gender.png))
-
 ---
 
 ## 🧠 Project Overview
